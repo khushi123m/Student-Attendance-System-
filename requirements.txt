@@ -1,1 +1,5 @@
-pandas 
+opencv-python
+mediapipe
+pandas
+streamlit
+geopy
